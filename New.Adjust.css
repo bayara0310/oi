@@ -1,0 +1,70 @@
+
+/* Header */
+#header{
+    height:203px;
+   }
+  
+  
+  /* Img */
+  .masonryHolder .itemCol .img{
+    min-height:842px;
+   }
+   
+   
+  /* Ebold */
+  .holder .txtwrap h1.fwEbold{
+    color:#ffffff;
+   }
+   
+   /* Text uppercase */
+   .holder .txtwrap .text-uppercase{
+    color:#c1c1c1;
+   }
+   
+   /* Paragraph */
+   .holder .txtwrap p{
+    display:none;
+   }
+   
+  
+/* Holder */
+.bannerBlockHolder div .holder{
+  margin-left:192px;
+ }
+ 
+ @media (max-width:767px){
+ 
+  /* Txtwrap */
+  .holder .txtwrap{
+   transform:translatex(-193px) translatey(12px);
+  }
+  
+ }
+ 
+ @media (min-width:1170px){
+ 
+  /* Holder */
+  .bannerBlockHolder div .holder{
+   padding-top:52px !important;
+  }
+  
+ }
+
+
+
+
+
+
+
+ /* Contact list column */
+.contactListBlock .mb-lg-0 .contactListColumn{
+  height:123px;
+  transform:translatex(0px) translatey(0px);
+ }
+ 
+ /* Align left */
+ .contactListBlock .mb-lg-0 .alignLeft{
+  padding-top:10px;
+ }
+ 
+ 
